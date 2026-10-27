@@ -1,0 +1,10 @@
+node_modules/
+client/dist/
+server/data/*.db
+server/uploads/*
+!server/uploads/.gitkeep
+coverage/
+server/coverage/
+.env
+.DS_Store
+Thumbs.db
